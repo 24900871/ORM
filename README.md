@@ -42,10 +42,10 @@ class Employee(models.Model):
 
 class EmployeeAdmin(admin.ModelAdmin):
     list_display=('eid','name','salary','age','email')
-
+```
 ## OUTPUT
 
-.Screenshot (10).png
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ae91fa47-3ea8-4cf4-8f0b-74b73b19fcda" />
 
 
 ## RESULT
